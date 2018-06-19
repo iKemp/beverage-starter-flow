@@ -7,9 +7,9 @@ WORKDIR /app
 
 COPY . /app
 
-RUN chgrp -R 0 /app && chmod -R g=u /app
-
 RUN mvn -PproductionMode package 
+
+RUN chgrp -R 0 /app && chmod -R g=u /app
 
 EXPOSE 8080
 
