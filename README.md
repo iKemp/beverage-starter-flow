@@ -1,5 +1,10 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vaadin-flow/Lobby#?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+# OpenShift Adaption
+
+Forked project to adapt for openshift environment. Currently running into permission issues with productionMode profile.
+
+
 # Beverage Buddy App Starter for Vaadin 10
 :coffee::tea::sake::baby_bottle::beer::cocktail::tropical_drink::wine_glass:
 
